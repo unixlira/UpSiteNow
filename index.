@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>UP Sites</title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto+Slab:400,700|Pacifico' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+  
+<body>
+    
+    <nav>
+        <a href="#">UP Sites</a>
+        <ul>
+            <li><a href="#sobre">SOBRE</a></li>
+            <li><a href="#servicos">SERVIÇOS</a></li>
+            <li><a href="#portfolio">PORTFÓLIO</a></li>
+            <li><a href="#contato">CONTATO</a></li>
+        </ul>
+    </nav>
+
+    <header>
+                <h1>Impulsione seu negócio.</h1>
+        <p>TENHA UM ENDEREÇO VIRTUAL.</p>
+        <a href="#sobre" class="botao">VER MAIS</a>
+    </header>
+
+    <section id="sobre">
+        <h2>SITES</h2>
+        <p>Com certeza temos o templete perfeito para o seu negócio.
+
+            Um site é vital para qualquer empresa moderna. Mesmo se você vender localmente ou por indicação (boca a boca), seus clientes o procuraram na web – mesmo que seja só para verificar o seu horário de atendimento. Localize tudo que você precisa aqui. </p>
+             <a href="#contato" class="botao">ENTRE EM CONTATO</a>
+    </section>
+
+    <section id="servicos">
+        <h2>SERVIÇOS</h2>
+        <div>
+            <h3>Host</h3>
+            <p>Hospedeiro, é o computador conectado a uma rede, podendo oferecer informações, recursos, serviços e aplicações aos usuários na rede.</p>
+        </div>
+        <div>
+            <h3>Domínio </h3>
+            <p>Ache o Nome perfeito para o seu negócio. Registre seu domínio aqui ! Sujeito a verificação de disponibilidade, consulte um orçamento sem compromisso.</p>
+        </div>
+        <div>
+            <h3>E-mail</h3>
+            <p>O serviço de e-mail é a principal forma de comunicação dos colaboradores, clientes e fornecedores,Vital comunicação.</p>
+        </div>
+        <div>
+            <h3>HomePage</h3>
+            <p>Compreende uma apresentação do site e de todo seu conteúdo. Seria como a capa de uma revista.E informações precisas de seu negócio.</p>
+
+        </div>
+    </section>
+
+    <section id="portfolio">
+        <h2>PORTFÓLIO</h2>
+        <img src="img/aquafisio.png" alt="Academia Aqua Fisio">
+        <img src="img/googleglass.png" alt="Google Glass">
+        <img src="img/valemobi.png" alt="Mercado Lira">
+        <!-- <img src="img/aca4.jpg" alt="Floresta nevada">
+        <img src="img/aca5.jpg" alt="Praia deserta">
+        <img src="img/aca6.jpg" alt="Alce à beira de rio">-->
+    </section>
+
+    <section id="contato">
+        <h2>CONTATO</h2>
+        <p>Entre em contato conosco.</p>
+        <div>
+            <img src="img/fone.png" alt="fone">
+            <p><a href="tel:13-997-669-946">(13) 997-669-946</a></p>
+        </div>
+
+        <div>
+            <img src="img/contato.png" alt="email">
+            <p><a href="mailto:joserobertolira@gmail.com">joserobertolira@gmail.com</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <p>Desenvolvido por UP Sites.</p>
+        <p><a href="http://unixlira.github.io">www.joserobertolira.com.br</a></p>
+    </footer>
+    
+</body>
+</html>
